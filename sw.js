@@ -6,7 +6,7 @@ const DYNAMIC_CACHE = 'dynamic-v1';
 const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHELL = [ //todo lo que es el corazon de mi aplicacion. el core que es fijo y siempre necesario
-    "/",
+    // "/",
     "index.html",
     "css/style.css",
     "img/favicon.ico",
